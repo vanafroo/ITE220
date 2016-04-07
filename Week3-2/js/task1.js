@@ -18,7 +18,7 @@ var task1 = {
     devInfo: function(){
         var btnDev = document.getElementById("dev-info");
         btnDev.addEventListener("click", function(){
-         window.open("file:///Users/Vanafroo/Desktop/GitHub%20ITE220/Week3-2/task1.html");   
+          document.getElementById("info-dev").innerHTML = 'Vana Lobato </br>IT Student </br> <a href="www.github.com/14110017">www.github.com/14110017</br>';  
         });
     }
 }
