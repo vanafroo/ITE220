@@ -19,11 +19,11 @@
             var btnDev = document.getElementById("dev-info");
             btnDev.addEventListener("click", function() {
 
-                document.getElementById("info-dev").innerHTML = 'Vana Lobato </br>IT Student </br> <a href="file:///Users/Vanafroo/Desktop/GitHub%20ITE220/Week3-2/task1.html">file:///Users/Vanafroo/Desktop/GitHub%20ITE220/Week3-2/task1.html</br>';
+                document.getElementById("info-dev").innerHTML = 'Vana Lobato </br>IT Student </br> <a href="http://vanafroo.github.io/ITE220/Week3-2/task1.html">http://vanafroo.github.io/ITE220/Week3-2/task1.html</br>';
             });
         },
        window: function() {
-   window.open("file:///Users/Vanafroo/Desktop/GitHub%20ITE220/Week3-2/task1.html", '_blank');
+   window.open("http://vanafroo.github.io/ITE220/Week3-2/task1.html", '_blank');
 }
     }
     task1.render();
