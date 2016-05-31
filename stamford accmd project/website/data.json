@@ -1,0 +1,25 @@
+{
+  "accom": [
+    {
+      "name": "Lumpini Place",
+      "address": "...",
+      "price": 15000,
+      "lat": 0.0,
+      "lon": 0.0
+    },
+    {
+      "name": "Bansuan",
+      "address": "...",
+      "price": 15000,
+      "lat": 0.0,
+      "lon": 0.0
+    },
+    {
+      "name": "XXXX",
+      "address": "...",
+      "price": 15000,
+      "lat": 0.0,
+      "lon": 0.0
+    }
+  ]
+}

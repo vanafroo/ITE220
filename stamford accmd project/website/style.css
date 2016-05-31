@@ -1,0 +1,18 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding-left: inherit;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #555;
+}
+
+#navbar ul li {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+}
